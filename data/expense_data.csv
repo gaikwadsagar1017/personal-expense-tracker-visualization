@@ -1,0 +1,201 @@
+Date,Category,Amount,Payment_Method,Description
+2025-03-09,Health,1594,Debit Card,Expense 1
+2025-04-08,Travel,1086,UPI,Expense 2
+2025-02-05,Bills,4216,Cash,Expense 3
+2025-03-09,Health,630,Debit Card,Expense 4
+2025-02-26,Health,211,Cash,Expense 5
+2025-02-04,Health,993,Debit Card,Expense 6
+2025-02-10,Food,1546,UPI,Expense 7
+2025-03-27,Bills,3472,Debit Card,Expense 8
+2025-03-10,Food,2628,Cash,Expense 9
+2025-02-06,Bills,503,Debit Card,Expense 10
+2025-04-19,Bills,3228,Credit Card,Expense 11
+2025-04-16,Food,1232,Credit Card,Expense 12
+2025-01-26,Entertainment,4339,Cash,Expense 13
+2025-01-16,Food,2453,Debit Card,Expense 14
+2025-02-15,Health,895,Cash,Expense 15
+2025-04-25,Entertainment,3988,Credit Card,Expense 16
+2025-03-06,Shopping,2051,Cash,Expense 17
+2025-05-01,Food,4053,UPI,Expense 18
+2025-04-20,Travel,4347,Credit Card,Expense 19
+2025-03-27,Travel,2767,Debit Card,Expense 20
+2025-03-28,Bills,470,Debit Card,Expense 21
+2025-03-05,Bills,1513,Debit Card,Expense 22
+2025-02-26,Food,1017,Credit Card,Expense 23
+2025-01-07,Health,4323,UPI,Expense 24
+2025-01-15,Travel,3200,Credit Card,Expense 25
+2025-02-06,Bills,4728,Cash,Expense 26
+2025-04-12,Health,2506,Debit Card,Expense 27
+2025-04-07,Entertainment,457,Debit Card,Expense 28
+2025-04-14,Shopping,3308,UPI,Expense 29
+2025-02-05,Travel,1464,Debit Card,Expense 30
+2025-03-12,Health,1553,Credit Card,Expense 31
+2025-03-22,Shopping,433,Credit Card,Expense 32
+2025-04-22,Travel,3831,UPI,Expense 33
+2025-04-07,Entertainment,4748,UPI,Expense 34
+2025-01-02,Health,4921,UPI,Expense 35
+2025-04-06,Shopping,3380,Cash,Expense 36
+2025-03-04,Bills,3696,Debit Card,Expense 37
+2025-04-22,Food,4831,Credit Card,Expense 38
+2025-04-28,Health,4986,Debit Card,Expense 39
+2025-03-15,Shopping,3670,UPI,Expense 40
+2025-04-27,Health,589,Credit Card,Expense 41
+2025-03-26,Food,2798,Credit Card,Expense 42
+2025-04-06,Health,4486,Debit Card,Expense 43
+2025-04-17,Health,4695,Debit Card,Expense 44
+2025-01-12,Travel,3874,Credit Card,Expense 45
+2025-01-23,Bills,2604,Cash,Expense 46
+2025-04-12,Travel,1103,Debit Card,Expense 47
+2025-02-15,Food,588,Credit Card,Expense 48
+2025-02-15,Travel,1869,Debit Card,Expense 49
+2025-03-28,Food,3205,Credit Card,Expense 50
+2025-04-19,Entertainment,4384,Credit Card,Expense 51
+2025-03-05,Health,593,UPI,Expense 52
+2025-02-17,Entertainment,2343,Cash,Expense 53
+2025-02-24,Food,131,UPI,Expense 54
+2025-02-18,Travel,4424,Cash,Expense 55
+2025-04-20,Health,2546,Debit Card,Expense 56
+2025-03-22,Health,2477,Credit Card,Expense 57
+2025-01-15,Travel,3358,Credit Card,Expense 58
+2025-01-17,Health,4648,Cash,Expense 59
+2025-02-09,Health,1029,Cash,Expense 60
+2025-01-04,Travel,3569,Cash,Expense 61
+2025-02-26,Shopping,2266,Debit Card,Expense 62
+2025-04-11,Travel,1912,UPI,Expense 63
+2025-04-26,Bills,4495,Credit Card,Expense 64
+2025-04-17,Entertainment,191,Credit Card,Expense 65
+2025-04-17,Bills,3366,UPI,Expense 66
+2025-02-28,Food,262,UPI,Expense 67
+2025-03-13,Entertainment,1082,Cash,Expense 68
+2025-04-11,Shopping,3989,Debit Card,Expense 69
+2025-01-09,Shopping,2790,Cash,Expense 70
+2025-02-16,Travel,4975,Debit Card,Expense 71
+2025-01-19,Food,1143,Cash,Expense 72
+2025-02-27,Bills,747,Debit Card,Expense 73
+2025-01-16,Entertainment,4929,UPI,Expense 74
+2025-01-01,Health,3221,UPI,Expense 75
+2025-03-28,Bills,1457,Credit Card,Expense 76
+2025-04-02,Bills,3569,Debit Card,Expense 77
+2025-04-27,Shopping,3398,Debit Card,Expense 78
+2025-03-23,Food,943,Cash,Expense 79
+2025-03-11,Health,1751,Credit Card,Expense 80
+2025-04-08,Food,3905,Credit Card,Expense 81
+2025-04-17,Entertainment,2600,UPI,Expense 82
+2025-01-23,Health,3068,UPI,Expense 83
+2025-03-07,Health,4278,Debit Card,Expense 84
+2025-02-18,Health,2864,UPI,Expense 85
+2025-02-11,Entertainment,597,Debit Card,Expense 86
+2025-02-23,Bills,3317,Cash,Expense 87
+2025-03-18,Shopping,3155,Credit Card,Expense 88
+2025-04-23,Shopping,2353,Cash,Expense 89
+2025-01-13,Shopping,4102,UPI,Expense 90
+2025-01-02,Travel,4520,Cash,Expense 91
+2025-03-03,Food,2556,Cash,Expense 92
+2025-01-02,Shopping,4589,Credit Card,Expense 93
+2025-03-14,Entertainment,1745,Cash,Expense 94
+2025-03-02,Entertainment,4496,Credit Card,Expense 95
+2025-02-10,Health,1360,UPI,Expense 96
+2025-04-29,Entertainment,4375,Credit Card,Expense 97
+2025-03-01,Shopping,1034,Debit Card,Expense 98
+2025-03-24,Travel,3775,Credit Card,Expense 99
+2025-04-20,Shopping,3229,Debit Card,Expense 100
+2025-03-07,Health,1755,Debit Card,Expense 101
+2025-04-15,Travel,669,UPI,Expense 102
+2025-02-13,Food,2258,Cash,Expense 103
+2025-04-24,Bills,3511,Credit Card,Expense 104
+2025-02-19,Travel,2823,UPI,Expense 105
+2025-04-24,Entertainment,1227,Debit Card,Expense 106
+2025-03-11,Travel,3725,Cash,Expense 107
+2025-04-04,Travel,4272,UPI,Expense 108
+2025-02-10,Entertainment,118,UPI,Expense 109
+2025-01-29,Entertainment,2387,Credit Card,Expense 110
+2025-03-04,Bills,2243,UPI,Expense 111
+2025-01-23,Shopping,3104,Credit Card,Expense 112
+2025-01-12,Shopping,3490,Cash,Expense 113
+2025-03-17,Health,3931,Credit Card,Expense 114
+2025-03-24,Health,1513,Cash,Expense 115
+2025-01-09,Bills,1370,UPI,Expense 116
+2025-01-31,Travel,1071,UPI,Expense 117
+2025-03-17,Entertainment,1972,UPI,Expense 118
+2025-02-22,Shopping,1701,UPI,Expense 119
+2025-01-16,Travel,2917,Credit Card,Expense 120
+2025-02-09,Shopping,1998,UPI,Expense 121
+2025-03-05,Health,4504,Credit Card,Expense 122
+2025-03-02,Bills,2842,Debit Card,Expense 123
+2025-01-01,Bills,2363,UPI,Expense 124
+2025-03-22,Bills,896,Credit Card,Expense 125
+2025-04-20,Entertainment,3757,Cash,Expense 126
+2025-03-22,Health,2327,Credit Card,Expense 127
+2025-04-16,Food,4826,Debit Card,Expense 128
+2025-04-27,Shopping,185,Credit Card,Expense 129
+2025-02-08,Food,1373,Credit Card,Expense 130
+2025-04-02,Food,1946,Cash,Expense 131
+2025-01-30,Bills,1178,Cash,Expense 132
+2025-01-14,Bills,3038,Cash,Expense 133
+2025-03-19,Health,1985,UPI,Expense 134
+2025-04-28,Shopping,1475,UPI,Expense 135
+2025-02-20,Food,1215,Debit Card,Expense 136
+2025-03-05,Travel,4506,UPI,Expense 137
+2025-02-14,Shopping,522,Debit Card,Expense 138
+2025-02-25,Travel,551,Debit Card,Expense 139
+2025-04-21,Health,2649,Credit Card,Expense 140
+2025-02-28,Shopping,1366,UPI,Expense 141
+2025-03-15,Entertainment,3518,UPI,Expense 142
+2025-04-25,Food,3739,Credit Card,Expense 143
+2025-01-03,Health,3277,Cash,Expense 144
+2025-03-17,Bills,4137,UPI,Expense 145
+2025-02-12,Travel,1450,Credit Card,Expense 146
+2025-01-10,Bills,3294,Credit Card,Expense 147
+2025-02-23,Bills,3533,Debit Card,Expense 148
+2025-01-13,Bills,4883,Debit Card,Expense 149
+2025-03-26,Entertainment,2857,Cash,Expense 150
+2025-03-08,Entertainment,4048,Credit Card,Expense 151
+2025-01-12,Health,3770,Debit Card,Expense 152
+2025-01-23,Travel,4035,Debit Card,Expense 153
+2025-01-19,Shopping,3693,Cash,Expense 154
+2025-03-06,Food,825,Cash,Expense 155
+2025-03-27,Food,3240,Debit Card,Expense 156
+2025-03-10,Bills,3702,Cash,Expense 157
+2025-03-22,Shopping,3010,UPI,Expense 158
+2025-02-18,Bills,2896,Debit Card,Expense 159
+2025-04-03,Entertainment,4286,Cash,Expense 160
+2025-02-21,Travel,2009,Debit Card,Expense 161
+2025-01-26,Food,3461,Cash,Expense 162
+2025-01-02,Health,312,Cash,Expense 163
+2025-03-27,Entertainment,4186,Debit Card,Expense 164
+2025-03-12,Health,4759,Credit Card,Expense 165
+2025-04-16,Shopping,1629,Debit Card,Expense 166
+2025-01-18,Entertainment,1912,Cash,Expense 167
+2025-01-06,Shopping,1981,Debit Card,Expense 168
+2025-04-03,Entertainment,986,Credit Card,Expense 169
+2025-04-18,Health,2963,Debit Card,Expense 170
+2025-03-05,Travel,373,Credit Card,Expense 171
+2025-03-19,Entertainment,3798,Cash,Expense 172
+2025-01-20,Health,4333,Cash,Expense 173
+2025-04-19,Entertainment,3191,UPI,Expense 174
+2025-04-17,Shopping,1209,Cash,Expense 175
+2025-01-16,Food,4129,UPI,Expense 176
+2025-04-27,Health,3586,Credit Card,Expense 177
+2025-04-30,Health,3429,Credit Card,Expense 178
+2025-03-02,Entertainment,4122,UPI,Expense 179
+2025-01-16,Entertainment,1284,Cash,Expense 180
+2025-02-18,Bills,3985,Cash,Expense 181
+2025-02-27,Health,1467,Credit Card,Expense 182
+2025-02-19,Health,278,Credit Card,Expense 183
+2025-02-25,Bills,822,Cash,Expense 184
+2025-03-15,Shopping,1743,Credit Card,Expense 185
+2025-03-26,Shopping,4207,Debit Card,Expense 186
+2025-02-01,Bills,1136,Credit Card,Expense 187
+2025-03-19,Entertainment,1306,Debit Card,Expense 188
+2025-02-27,Travel,4758,Credit Card,Expense 189
+2025-03-19,Food,3602,Credit Card,Expense 190
+2025-03-17,Shopping,2080,Debit Card,Expense 191
+2025-02-17,Bills,252,Debit Card,Expense 192
+2025-03-25,Entertainment,500,Cash,Expense 193
+2025-02-24,Travel,2670,UPI,Expense 194
+2025-04-30,Food,3703,Credit Card,Expense 195
+2025-04-08,Bills,1649,UPI,Expense 196
+2025-01-28,Shopping,4558,Debit Card,Expense 197
+2025-02-20,Entertainment,1102,Credit Card,Expense 198
+2025-03-28,Entertainment,905,Credit Card,Expense 199
+2025-03-06,Health,1274,Credit Card,Expense 200
